@@ -1,0 +1,647 @@
+@media (min-width: 1200px)and (max-width:1300.99px){
+  #about h2 {
+   
+    padding-right: 0;
+  }
+
+  .footer-menu ul {
+    
+    column-gap: 27px;
+    
+  }
+}
+
+
+@media (min-width: 992.99px)and (max-width:1199.99px) {
+
+#banner .banner-left h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 47px;
+  font-weight: 700;
+  color: #333333;
+  line-height: 63px;
+  margin-top: 8px;
+}
+
+.navbar-toggler:focus {
+ 
+  box-shadow: none;
+}
+#banner .banner-button {
+ justify-content: center;
+  
+}
+
+
+.banner-right{
+  margin-top: 46px;
+}
+
+#service{
+  padding-top: 100px;
+  padding-bottom: 64px;
+}
+
+#service .service-header h4 {
+
+  font-size: 34px;
+ 
+  line-height: 40px;
+ 
+ 
+}
+
+.service-item p {
+  
+  padding: 0 30px;
+}
+
+.service-item {
+ 
+  margin-top: 30px;
+}
+#about{
+  padding-top: 80px;
+ 
+
+}
+#about .about-left h2{
+  font-size: 36px;
+  line-height: 48px;
+  padding-right: 0;
+}
+
+
+
+#about p{
+ padding-right: 0;
+}
+#about .about-button button{
+  margin: 0 auto;
+  margin-top: 30px;
+}
+#brand{
+  padding-top: 66px;
+
+}
+
+#portfolio{
+  padding-top: 43px;
+}
+
+
+#portfolio .portfolio-left h6::after {
+  content: url(../img/Polygon.png);
+  position: absolute;
+  top: -41px;
+  left: 5%;
+  z-index: -1;
+}
+#portfolio .portfolio-right p {
+
+  padding-right: 0px;
+  margin-top: 10px;
+}
+.portfolio-item-parent{
+  margin-top: 30px;
+}
+
+.portfolio-item-content h5{
+  font-size: 15px;
+}
+
+.portfolio-item-content{
+  padding: 21px 30px;
+}
+
+#testimonial .testimonial-header h4{
+  color: #000;
+  font-family: "Poppins", sans-serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 40px;
+  letter-spacing: 0.17px;
+  
+}
+#testimonial .testimonial-header p{
+  font-size: 16px;
+  line-height: 32px;
+  
+}
+.testimonial-bg{
+  padding: 115px 0;
+}
+.testimonial-item p{
+  padding-right: 0;
+}
+
+#cta{
+  padding-top: 64px;
+}
+#cta .cta-content h4{
+  font-size: 40px;
+  line-height: 52px;
+  
+
+}
+
+
+.footer-menu ul li a{
+  font-size: 13px;
+}
+
+.footer-menu ul{
+  column-gap: 11px;
+}
+}
+
+
+
+@media (min-width: 768.99px)and (max-width:991.99px) {
+  .navbar-toggler {
+   border: 0;
+  
+}
+.banner-left{
+  text-align: center;
+}
+#banner .banner-left h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 44px;
+  font-weight: 700;
+  color: #333333;
+  line-height: 64px;
+  margin-top: 8px;
+}
+
+.navbar-toggler:focus {
+ 
+  box-shadow: none;
+}
+#banner .banner-button {
+ justify-content: center;
+  
+}
+
+
+.banner-right{
+  margin-top: 46px;
+}
+
+#service{
+  padding-top: 100px;
+  padding-bottom: 64px;
+}
+
+#service .service-header h4 {
+
+  font-size: 34px;
+ 
+  line-height: 40px;
+ 
+ 
+}
+
+.service-item p {
+  
+  padding: 0 30px;
+}
+
+.service-item {
+ 
+  margin-top: 30px;
+}
+#about{
+  padding-top: 80px;
+  padding-bottom: 80px;
+  text-align: center;
+
+}
+#about h2{
+  font-size: 34px;
+  line-height: 40px;
+  padding-right: 0;
+}
+
+
+#about p{
+ padding-right: 0;
+}
+#about .about-button button{
+  margin: 0 auto;
+  margin-top: 30px;
+}
+#brand{
+  padding-top: 66px;
+
+}
+
+#portfolio{
+  padding-top: 43px;
+}
+
+.portfolio-left{
+  text-align: center;
+}
+#portfolio .portfolio-left h6::after {
+  content: url(../img/Polygon.png);
+  position: absolute;
+  top: -41px;
+  left: 5%;
+ 
+  z-index: -1;
+}
+#portfolio .portfolio-right p {
+ text-align: center;
+  padding-right: 0px;
+  margin-top: 10px;
+}
+.portfolio-item-parent{
+  margin-top: 30px;
+}
+
+.portfolio-item-content h5{
+  font-size: 15px;
+}
+
+.portfolio-item-content{
+  padding: 21px 30px;
+}
+
+#testimonial .testimonial-header h4{
+  color: #000;
+  font-family: "Poppins", sans-serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 40px;
+  letter-spacing: 0.17px;
+  
+}
+#testimonial .testimonial-header p{
+  font-size: 16px;
+  line-height: 32px;
+  
+}
+
+.testimonial-item p{
+  padding-right: 0;
+}
+
+#cta{
+  padding-top: 64px;
+}
+#cta .cta-content h4{
+  font-size: 40px;
+  line-height: 52px;
+  
+
+}
+
+
+.footer-menu ul li a{
+  font-size: 13px;
+}
+
+.footer-menu ul{
+  justify-self: center;
+  column-gap: 17px;
+  margin-bottom: 0;
+}
+
+}
+
+@media (min-width: 575.99px)and (max-width:768.99px) {
+  .navbar-toggler {
+   border: 0;
+  
+}
+.banner-left{
+  text-align: center;
+}
+#banner .banner-left h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 44px;
+  font-weight: 700;
+  color: #333333;
+  line-height: 64px;
+  margin-top: 8px;
+}
+
+.navbar-toggler:focus {
+ 
+  box-shadow: none;
+}
+#banner .banner-button {
+ 
+  flex-direction: column;
+  
+}
+
+#banner .banner-button button{
+  margin-bottom: 25px;
+}
+.banner-right{
+  margin-top: 46px;
+}
+
+#service{
+  padding-top: 100px;
+  padding-bottom: 64px;
+}
+
+#service .service-header h4 {
+
+  font-size: 34px;
+ 
+  line-height: 40px;
+ 
+ 
+}
+
+.service-item p {
+  
+  padding: 0 30px;
+}
+
+.service-item {
+ 
+  margin-top: 30px;
+}
+#about{
+  padding-top: 80px;
+  padding-bottom: 80px;
+  text-align: center;
+
+}
+#about h2{
+  font-size: 34px;
+  line-height: 40px;
+  padding-right: 0;
+}
+
+
+#about p{
+ padding-right: 0;
+}
+#about .about-button button{
+  margin: 0 auto;
+  margin-top: 30px;
+}
+#brand{
+  padding-top: 66px;
+
+}
+
+#portfolio{
+  padding-top: 43px;
+}
+
+.portfolio-left{
+  text-align: center;
+}
+#portfolio .portfolio-left h6::after {
+  content: url(../img/Polygon.png);
+  position: absolute;
+  top: -41px;
+  left: 5%;
+ 
+  z-index: -1;
+}
+#portfolio .portfolio-right p {
+ text-align: center;
+  padding-right: 0px;
+  margin-top: 10px;
+}
+.portfolio-item-parent{
+  margin-top: 30px;
+}
+
+.portfolio-item-content h5{
+  font-size: 16px;
+}
+
+.portfolio-item-content{
+  padding: 21px 30px;
+}
+
+#testimonial .testimonial-header h4{
+  color: #000;
+  font-family: "Poppins", sans-serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 40px;
+  letter-spacing: 0.17px;
+  
+}
+#testimonial .testimonial-header p{
+  font-size: 16px;
+  line-height: 32px;
+  
+}
+
+.testimonial-item p{
+  padding-right: 0;
+}
+
+#cta{
+  padding-top: 64px;
+}
+#cta .cta-content h4{
+  font-size: 45px;
+  line-height: 52px;
+
+}
+.footer-left{
+  text-align: center;
+}
+
+.contact-info{
+  margin-top: 58px;
+}
+.contact-info ul li{
+  justify-content: center;
+}
+.contact-info .social-icon{
+ justify-content: center;
+}
+
+.footer-menu ul li a{
+  font-size: 13px;
+}
+
+.footer-menu ul{
+  justify-self: center;
+  column-gap: 17px;
+  
+}
+}
+
+@media (max-width: 575.99px) {
+  .navbar-toggler {
+   border: 0;
+  
+}
+.banner-left{
+  text-align: center;
+}
+#banner .banner-left h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 44px;
+  font-weight: 700;
+  color: #333333;
+  line-height: 64px;
+  margin-top: 8px;
+}
+
+.navbar-toggler:focus {
+ 
+  box-shadow: none;
+}
+#banner .banner-button {
+ 
+  flex-direction: column;
+  
+}
+
+#banner .banner-button button{
+  margin-bottom: 25px;
+}
+.banner-right{
+  margin-top: 46px;
+}
+
+#service{
+  padding-top: 100px;
+  padding-bottom: 64px;
+}
+
+#service .service-header h4 {
+
+  font-size: 34px;
+ 
+  line-height: 40px;
+ 
+ 
+}
+
+.service-item p {
+  
+  padding: 0 30px;
+}
+
+.service-item {
+ 
+  margin-top: 30px;
+}
+#about{
+  padding-top: 80px;
+  padding-bottom: 80px;
+  text-align: center;
+
+}
+#about h2{
+  font-size: 34px;
+  line-height: 40px;
+  padding-right: 0;
+}
+
+
+#about p{
+ padding-right: 0;
+}
+#about .about-button button{
+  margin: 0 auto;
+  margin-top: 30px;
+}
+#brand{
+  padding-top: 66px;
+
+}
+
+#portfolio{
+  padding-top: 43px;
+}
+
+.portfolio-left{
+  text-align: center;
+}
+#portfolio .portfolio-left h6::after {
+  content: url(../img/Polygon.png);
+  position: absolute;
+  top: -41px;
+  left: 5%;
+ 
+  z-index: -1;
+}
+#portfolio .portfolio-right p {
+ text-align: center;
+  padding-right: 0px;
+  margin-top: 10px;
+}
+.portfolio-item-parent{
+  margin-top: 30px;
+}
+
+.portfolio-item-content h5{
+  font-size: 16px;
+}
+
+.portfolio-item-content{
+  padding: 21px 30px;
+}
+
+#testimonial .testimonial-header h4{
+  color: #000;
+  font-family: "Poppins", sans-serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 40px;
+  letter-spacing: 0.17px;
+  
+}
+#testimonial .testimonial-header p{
+  font-size: 16px;
+  line-height: 32px;
+  
+}
+
+.testimonial-item p{
+  padding-right: 0;
+}
+
+#cta{
+  padding-top: 64px;
+}
+#cta .cta-content h4{
+  font-size: 45px;
+  line-height: 52px;
+
+}
+.footer-left{
+  text-align: center;
+}
+
+.contact-info{
+  margin-top: 58px;
+}
+.contact-info ul li{
+  justify-content: center;
+}
+.contact-info .social-icon{
+ justify-content: center;
+}
+
+.footer-menu ul li a{
+  font-size: 13px;
+}
+
+.footer-menu ul{
+  justify-self: center;
+  column-gap: 17px;
+  
+}
+}
